@@ -4,7 +4,7 @@ def base_hash
   monopoly = {
 	:properties => {
 	  :railroads => {
-	  "short_line", "reading"},
+	  "short_line"},
 	  :Park_Place => {
 	    :color => "blue"}
 	  }
