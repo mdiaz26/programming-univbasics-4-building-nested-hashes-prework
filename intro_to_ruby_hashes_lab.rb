@@ -3,7 +3,7 @@ def base_hash
   # keyword "return." Nice and neat.
   monopoly =  
 	{:category => "board game"}
-	monopoly[:first_published => "1933"]
+	monopoly[:first_published] = "1933"
 end
 
 def monopoly_with_second_tier
