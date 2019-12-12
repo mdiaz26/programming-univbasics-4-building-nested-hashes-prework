@@ -14,10 +14,8 @@ def monopoly_with_second_tier
   monopoly = {
 	:properties => {
 	  :railroads => 
-	  "short_line"},
-	  :Park_Place => {
-	    :color => "blue"}
-	  }
+	  "short_line"}
+  }
 end
 
 def monopoly_with_third_tier
