@@ -3,12 +3,11 @@ def base_hash
   # keyword "return." Nice and neat.
   monopoly = {
 	:properties => {
-	:railroads => {
-	  "short_line", ""}
+	  :railroads => {
+	  "short_line", "reading"},
 	  :Park_Place => {
-	  :color => "blue"  
+	    :color => "blue"}
 	  }
-	}
   }
 end
 
